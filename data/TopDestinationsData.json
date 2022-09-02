@@ -1,0 +1,72 @@
+[
+    {
+        "image": "../Images/TopDestinations/alibag.jpg",
+        "heading":"Alibag",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/bali.jpg",
+        "heading":"Bali",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/barcelona.jpg",
+        "heading":"Barcelona",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/cape_town.jpg",
+        "heading":"Cape Town",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/coorg.jpg",
+        "heading":"Coorg",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/himachal_pradesh.jpg",
+        "heading":"Himachal Pradesh",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/kandy.jpg",
+        "heading":"Kandy",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/kerala.jpg",
+        "heading":"Kerala",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/lonavala.jpg",
+        "heading":"Lonavala",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/orlando.jpg",
+        "heading":"Orlando",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/paris.jpg",
+        "heading":"Paris",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/pattaya.jpg",
+        "heading":"Pattaya",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/rome.jpg",
+        "heading":"Rome",
+        "text":"Vacation Rentals"
+    },
+    {
+        "image": "../Images/TopDestinations/sydney.jpg",
+        "heading":"Sydney",
+        "text":"Vacation Rentals"
+    }
+]

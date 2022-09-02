@@ -1,0 +1,18 @@
+[
+    {
+        "image": "../Images/Card1/housekeeper.svg",
+        "text": "High Quality housekeeping"
+    },
+    {
+        "image": "../Images/Card1/towel.svg",
+        "text": "Comfortable Linen and Toiletries"
+    },
+    {
+        "image": "../Images/Card1/bed.svg",
+        "text": "Quality Furniture & Fittings"
+    },
+    {
+        "image": "../Images/Card1/dinner.svg",
+        "text": "Food Delivery Or Central Restaurant"
+    }
+]

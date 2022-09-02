@@ -1,0 +1,52 @@
+[
+    {
+        "image": "../Images/Communities/tata.jpeg",
+        "heading": "Tata Rio De Goa",
+        "text": "Dabolim, Goa"
+    },
+    {
+        "image": "../Images/Communities/kenisha.jpeg",
+        "heading": "Kenisha Holiday Homes",
+        "text": "Pawasalwadi, Maharashtra"
+    },
+    {
+        "image": "../Images/Communities/white1.jpeg",
+        "heading": "White Villas Shahapur",
+        "text": "Shahapur, Maharashtra"
+    },
+    {
+        "image": "../Images/Communities/white2.jpeg",
+        "heading": "White Villas Kasara",
+        "text": "Kasara, Maharashtra"
+    },
+    {
+        "image": "../Images/Communities/puravankara.jpeg",
+        "heading": "Puravankara Adora De Goa",
+        "text": "Dabolim, Goa"
+    },
+    {
+        "image": "../Images/Communities/umiya.jpeg",
+        "heading": "Umiya Serene",
+        "text": "Nerul, Goa"
+    },
+    {
+        "image": "../Images/Communities/oasis.jpeg",
+        "heading": "Oasis Alibaug",
+        "text": "Alibag, Maharashtra"
+    },
+    {
+        "image": "../Images/Communities/dreamz.jpeg",
+        "heading": "Dreamz Shiroda",
+        "text": "Shiroda, Maharashtra"
+    },
+    {
+        "image": "../Images/Communities/pristine.jpeg",
+        "heading": "Pristine Bay Mahabalipuram",
+        "text": "Thenpattinam, Tamil Nadu"
+    },
+    {
+        "image": "../Images/Communities/ampelon.jpeg",
+        "heading": "Ampelon Chikkaballapur",
+        "text": "Chikkaballapur, Karnataka"
+    }
+]
