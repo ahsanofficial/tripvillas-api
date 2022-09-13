@@ -2,7 +2,7 @@
 
 // const jsonServer = require("json-server")
 // const middlewares = jsonServer.defaults()
-// const port = process.env.Port || 8000
+// const port = process.env.PORT || 8000
 // require('dotenv').config()
 // const server = jsonServer.create()
 // const router = jsonServer.router('db.json')
